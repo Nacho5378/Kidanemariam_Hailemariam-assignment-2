@@ -9,3 +9,5 @@ code using some references and sources to help me generate the same UI-Desgin on
 example:- Youtube, Code Groups/forums, Websites, friends and etc...
 
 /////
+
+Degin an art auction for an art gallery
